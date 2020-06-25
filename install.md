@@ -1,5 +1,5 @@
 # jenkins prepare 
-# (requires 8-jdk, if you use something newer your need to use flag --future-release
+# (requires 8-jdk, if you use something newer your need to use flag --future-release)
 
 `$ apt install openjdk-8-jdk`
 
