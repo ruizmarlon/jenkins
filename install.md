@@ -7,3 +7,7 @@
 # install jenkins (thanks to digital ocean!)
 
 https://www.digitalocean.com/community/tutorials/how-to-install-jenkins-on-ubuntu-18-04
+
+# Get status for jenkins service
+
+`sudo systemctl status jenkins`
